@@ -1,0 +1,13 @@
+Metric,Value
+Total transactions,100000.0
+Total transaction value,300691252.2
+Transactions with exceptions,4661.0
+Exception rate %,4.66
+High-risk transactions,501.0
+Anomalous transactions,8938.0
+Duplicate-invoice records,1780.0
+Missing-approval records,700.0
+Missing-vendor records,400.0
+Invalid-amount records,250.0
+Invalid-posting-date records,1474.0
+Missing-account records,150.0
