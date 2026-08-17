@@ -1,0 +1,15 @@
+Field,Description
+Transaction_ID,Unique transaction identifier
+Transaction_Date,Date transaction occurred
+Account_ID,Date transaction posted
+Department,General ledger account identifier
+Vendor_ID,Business department
+Transaction_Type,Vendor identifier
+Amount,Transaction category
+Payment_Method,Transaction amount
+Currency,Invoice reference
+Status,Payment method
+Posting_Date,Transaction currency
+Invoice_Number,Approval status
+Approver_ID,Approver identifier
+Created_By,User who created transaction
